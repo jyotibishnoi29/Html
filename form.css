@@ -1,0 +1,23 @@
+div{
+
+
+    margin: auto;
+    padding:1rem;
+    background-color:lightgray;
+    width:50vw;
+    font-size:1.2rem ;
+    border:2px solid black;
+    color:black;
+}
+h1{
+    text-align:center;
+    color:black;
+
+}
+input:hover,textarea{
+    
+    color:whitesmoke;
+}
+body{
+    background-color:antiquewhite;
+}
